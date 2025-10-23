@@ -58,9 +58,9 @@ My goal is to build clean, maintainable, and scalable applications while continu
 
 | Project | Description | Status |
 |----------|--------------|--------|
-| [The C# Player’s Guide](./The_CSharp_Players_Guide) | Challenge-based progression with XP tracking and code solutions | 🟡 In Progress |
-| [Clean Code Refactors](./Clean_Code_Refactors) | Applying refactoring and naming principles to improve code quality | 🟡 In Progress |
-| [Mini Projects](./Mini_Projects) | Small, self-contained C# builds exploring various topics | ⚪ Planned |
+| [The C# Player’s Guide](https://github.com/WestvaleSec/C-SharpPlayersGuide) | Challenge-based progression with XP tracking and code solutions | 🟡 In Progress |
+| [Clean Code Refactors]( **EVENTUAL LINK HERE** ) | Applying refactoring and naming principles to improve code quality | 🟡 In Progress |
+| [Mini Projects]( **EVENTUAL LINK HERE**) | Small, self-contained C# builds exploring various topics | ⚪ Planned |
 
 ---
 
@@ -78,7 +78,7 @@ My goal is to build clean, maintainable, and scalable applications while continu
 
 | Repository | Description |
 |-------------|-------------|
-| [zane-cotten-dev-journey]( **EVENTUAL LINK HERE** | My complete software development learning portfolio |
+| [zane-cotten-dev-journey]( **EVENTUAL LINK HERE** ) | My complete software development learning portfolio |
 | [SQL-Learning]( **EVENTUAL LINK HERE** ) | Database design, queries, and integration with C# |
 | [Azure-Learning]( **EVENTUAL LINK HERE** ) | Cloud hosting and serverless deployments |
 | [Cpp-Learning]( **EVENTUAL LINK HERE** ) | Deeper systems programming and performance learning |
