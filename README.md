@@ -59,7 +59,7 @@ My goal is to build clean, maintainable, and scalable applications while continu
 | Project | Description | Status |
 |----------|--------------|--------|
 | [The C# Player’s Guide](https://github.com/WestvaleSec/C-SharpPlayersGuide) | Challenge-based progression with XP tracking and code solutions | 🟡 In Progress |
-| [Clean Code Refactors]( **EVENTUAL LINK HERE** ) | Applying refactoring and naming principles to improve code quality | 🟡 In Progress |
+| [Clean Code Refactors](https://github.com/WestvaleSec/Clean-Code-Refactors) | Applying refactoring and naming principles to improve code quality | 🟡 In Progress |
 | [Mini Projects]( **EVENTUAL LINK HERE**) | Small, self-contained C# builds exploring various topics | ⚪ Planned |
 
 ---
