@@ -1,2 +1,97 @@
-# CSharp-Learning
-My ongoing journey mastering C# and .NET — includes projects, exercises, and book challenges.
+# 🟦 C# Learning Journey
+
+Welcome to my dedicated repository for learning, mastering, and refining my skills in **C# and the .NET ecosystem**.  
+This repo serves as a structured record of my progress through books, exercises, refactoring projects, and personal experiments — all aimed at developing strong, professional-level C# expertise.
+
+---
+
+## 🧭 Overview
+
+This repository documents my growth in the C# language, including:
+- 📘 Structured learning from books and challenge-based material  
+- 🧩 Code refactoring and clean code practices  
+- ⚙️ Mini-projects exploring real-world applications   
+
+My goal is to build clean, maintainable, and scalable applications while continuously improving software craftsmanship.
+
+---
+
+## 📂 Repository Structure
+
+/CSharp-Learning/
+│
+├── The_CSharp_Players_Guide/ # 100+ programming challenges & XP system
+│ └── README.md
+│
+├── Clean_Code_Refactors/ # Refactoring practice based on clean code principles
+│ └── README.md
+│
+└── Mini_Projects/ # Small console and desktop apps (PLANNED)
+  └── README.md
+  
+---
+
+## 📘 Learning Sources
+
+| Source | Type | Status |
+|--------|------|--------|
+| *The C# Player’s Guide (5th Edition)* – RB Whitaker | Structured book with 100+ challenges | 🟡 In Progress |
+| *Clean Code* (Refactoring Series) | Code quality & SOLID principles | 🟡 In Progress |
+| *Mini Projects* | Practical applications & feature testing | ⚪ Planned |
+| Additional Learning Resources | Design patterns, async/await, LINQ | ⚪ Planned |
+
+---
+
+## 🧩 Key Focus Areas
+
+- **.NET Fundamentals:** Project structure, compilation, and runtime behavior  
+- **OOP Principles:** Encapsulation, inheritance, and polymorphism  
+- **SOLID & Clean Code:** Writing readable and maintainable C#  
+- **Error Handling & Debugging:** Structured exception flow and logging  
+- **LINQ & Collections:** Data manipulation and query comprehension  
+- **Async/Await:** Multithreading and performance optimization  
+- **Design Patterns:** Reusable and scalable architecture  
+
+---
+
+## 🧱 Featured Subprojects
+
+| Project | Description | Status |
+|----------|--------------|--------|
+| [The C# Player’s Guide](./The_CSharp_Players_Guide) | Challenge-based progression with XP tracking and code solutions | 🟡 In Progress |
+| [Clean Code Refactors](./Clean_Code_Refactors) | Applying refactoring and naming principles to improve code quality | 🟡 In Progress |
+| [Mini Projects](./Mini_Projects) | Small, self-contained C# builds exploring various topics | ⚪ Planned |
+
+---
+
+## 📈 Goals
+
+- Complete all challenges from *The C# Player’s Guide*  
+- Build 3–5 small but polished C# projects  
+- Practice continuous refactoring and documentation  
+- Apply professional development habits (version control, commits, structure)  
+- Reach production-level proficiency with C# and .NET Core  
+
+---
+
+## 🔗 Related Repositories
+
+| Repository | Description |
+|-------------|-------------|
+| [zane-cotten-dev-journey]( **EVENTUAL LINK HERE** | My complete software development learning portfolio |
+| [SQL-Learning]( **EVENTUAL LINK HERE** ) | Database design, queries, and integration with C# |
+| [Azure-Learning]( **EVENTUAL LINK HERE** ) | Cloud hosting and serverless deployments |
+| [Cpp-Learning]( **EVENTUAL LINK HERE** ) | Deeper systems programming and performance learning |
+
+---
+
+## 🪪 License
+
+This repository is licensed under the [MIT License](./LICENSE).
+
+---
+
+### 💬 About
+
+Created and maintained by **Zane Cotten** — a lifelong learner and aspiring software engineer  
+building a strong foundation in C#, .NET, and modern development practices.
